@@ -1,0 +1,6 @@
+
+.lista-data {
+    display: flex;
+    max-width: 200px;
+    overflow: auto;
+}
